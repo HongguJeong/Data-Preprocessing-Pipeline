@@ -1,0 +1,3 @@
+[submodule "imagededup"]
+	path = imagededup
+	url = https://github.com/idealo/imagededup.git
